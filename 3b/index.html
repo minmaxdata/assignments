@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="ie-edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>change me</title>
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+    integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <style>
+    .mr-25 {
+      margin-right: 25px !important;
+    }
+
+    .ml-25 {
+      margin-left: 25px !important;
+    }
+
+    .purple-bg {
+      background-color: #8e6e95;
+    }
+
+    .rust-bg {
+      background-color: #e8741e;
+    }
+
+    .rust-bg {
+      background-color: #e8741e;
+    }
+
+    .add {
+      color: blue;
+    }
+  </style>
+  <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+  <!-- Load our React component. -->
+  <script type="text/babel" src="like_button.js"></script>
+</head>
+
+<body>
+  <div id="like_button_container"></div>
+  <div id="root" class="container">
+    <div class='row ml-25 mr-25'>
+      <div class="col" name="winnie">
+        <div class="purple" name='titlebar '>Winnie</div>
+        <div name='card'>
+          Buy Eggs
+          <i class="fa fa-angle-right" style="font-size:24px"></i>
+        </div>
+        <div name='card'>
+          Return Textbooks
+          <i class="fa fa-angle-right" style="font-size:24px"></i>
+        </div>
+        <div class="add">Add a card</div>
+      </div>
+      <div class="col ml-25" name="bob">
+        <div name='titlebar'>Bob</div>
+        <div name='card'>
+          <i class="fa fa-angle-left" style="font-size:24px"></i>
+          Finish cleaning basement
+          <i class="fa fa-angle-right" style="font-size:24px"></i>
+        </div>
+        <div name='card'> <i class="fa fa-angle-left" style="font-size:24px"></i>
+          See if cleaner can come
+          <i class="fa fa-angle-right" style="font-size:24px"></i>
+        </div>
+        <div class="add">
+          <i class="fa fa-angle-left" style="font-size:24px"></i>
+          Add a card</div>
+      </div>
+      <div class="col ml-25" name="thomas">
+        <div name='titlebar'>Thomas</div>
+        <div name='card'>
+          <i class="fa fa-angle-left" style="font-size:24px"></i>
+          Finish packing for trip
+          <i class="fa fa-angle-right" style="font-size:24px"></i>
+        </div>
+        <div name='card'>
+          <i class="fa fa-angle-left" style="font-size:24px"></i>
+          Return Textbooks
+          <i class="fa fa-angle-right" style="font-size:24px"></i>
+        </div>
+        <div class="add">Add a card</div>
+      </div>
+      <div class="col ml-25" name="george">
+        <div name='titlebar'>George</div>
+        <div name='card'>
+          <i class="fa fa-angle-left" style="font-size:24px"></i>
+          Buy Eggs
+        </div>
+        <div name='card'>
+          <i class="fa fa-angle-left" style="font-size:24px"></i>
+          Return Textbooks
+        </div>
+        <div class="add">Add a card</div>
+      </div>
+    </div>
+  </div>
+  <script>
+    const addcard = document.querySelectorAll('.add');
+    const leftArrow = document.querySelectorAll('.fa-angle-left');
+    const rightArrow = document.querySelectorAll('.fa-angle-right');
+
+    function handleAddCardClick(e) {
+      const text = window.prompt('enter your card text');
+      const div = document.createElement('div');
+      div.innerHTML = `<div class="card"> ${text}</div>`;
+      e.target.previousSibling.previousSibling.prepend(div);
+    }
+    function handleMoveClick(e) {
+      console.log('left', e.target.parentElement);
+      const moveElement = e.target;
+      const parent = e.target.parentElement.parentElement;
+      const throwawayNode = parent.removeChild(moveElement);
+      console.log(throwawayNode)
+
+    }
+    function handleRightClick(e) {
+      console.log('right', e)
+    }
+    addcard.forEach((card) => {
+      card.addEventListener('click', handleAddCardClick);
+    });
+    leftArrow.forEach((item) => {
+      item.addEventListener('click', handleMoveClick)
+    });
+    rightArrow.forEach((item) => {
+      item.addEventListener('click', handleMoveClick)
+    })
+
+
+
+  </script>
+</body>
+
+</html>

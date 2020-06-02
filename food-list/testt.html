@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <style>
+      body {
+        background-color: #1d2126;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello, World</h1>
+    <div class="root">
+      <button>0</button>
+    </div>
+    <script>
+      const root = document.querySelector('.root');
+      // https://ibb.co/zSJm4dp
+
+      function rootEventHandler(e) {
+        const target = e.target;
+        const value = target.innerHTML;
+        target.innerHTML = parseInt(value) + 1;
+        target.insertAdjacentHTML('afterend', '<button>0</button>');
+      }
+
+      root.addEventListener('click', rootEventHandler);
+    </script>
+  </body>
+</html>
