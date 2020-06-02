@@ -1,0 +1,2 @@
+curl -H 'Accept: application/vnd.twitchtv.v5+json' -H 'Client-ID: 1i68fdeiwgr6lja3c0a5en1hp4r4cc' -X GET 'https://api.twitch.tv/kraken/search/games?query=star'
+

@@ -1,0 +1,26 @@
+img, embed, object, video {
+  max-width: 100%;
+}
+.navbar {
+  background-color: #563d7c;
+  color: white;
+  justify-content: left;
+  font-size: 24px;
+}
+.form-inline {
+  align-items: flex-end;
+}
+.navmargin {
+  margin: 50px 0;
+}
+.details {
+  background-color: #cdcdcd;
+  margin-top: 50px;
+}
+.scroll {
+  overflow-y: scroll;
+  height: 650px;;
+}
+body.noScroll {
+  overflow: hidden;
+}

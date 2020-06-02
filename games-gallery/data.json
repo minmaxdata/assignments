@@ -1,0 +1,1004 @@
+{
+  "games": [
+    {
+      "name": "StarCraft II",
+      "popularity": 1907,
+      "_id": 490422,
+      "giantbomb_id": 0,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft%20II-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft%20II-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft%20II-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft%20II-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/StarCraft%20II-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/StarCraft%20II-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/StarCraft%20II-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/StarCraft%20II-{width}x{height}.jpg"
+      },
+      "localized_name": "StarCraft II",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Citizen",
+      "popularity": 544,
+      "_id": 71375,
+      "giantbomb_id": 40011,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Citizen-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Citizen-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Citizen-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Citizen-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Citizen-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Citizen-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Citizen-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Citizen-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Citizen",
+      "locale": "en-us"
+    },
+    {
+      "name": "Starsector",
+      "popularity": 325,
+      "_id": 33416,
+      "giantbomb_id": 37533,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Starsector-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Starsector-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Starsector-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Starsector-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Starsector-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Starsector-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Starsector-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Starsector-{width}x{height}.jpg"
+      },
+      "localized_name": "Starsector",
+      "locale": "en-us"
+    },
+    {
+      "name": "Stardew Valley",
+      "popularity": 323,
+      "_id": 490744,
+      "giantbomb_id": 50899,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Stardew%20Valley-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Stardew%20Valley-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Stardew%20Valley-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Stardew%20Valley-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Stardew%20Valley-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Stardew%20Valley-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Stardew%20Valley-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Stardew%20Valley-{width}x{height}.jpg"
+      },
+      "localized_name": "Stardew Valley",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: The Old Republic",
+      "popularity": 229,
+      "_id": 21934,
+      "giantbomb_id": 24205,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20The%20Old%20Republic-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20The%20Old%20Republic-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20The%20Old%20Republic-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20The%20Old%20Republic-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20The%20Old%20Republic-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20The%20Old%20Republic-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20The%20Old%20Republic-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20The%20Old%20Republic-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: The Old Republic",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars Battlefront II",
+      "popularity": 164,
+      "_id": 492546,
+      "giantbomb_id": 53692,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront%20II-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront%20II-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront%20II-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront%20II-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wars%20Battlefront%20II-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wars%20Battlefront%20II-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wars%20Battlefront%20II-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wars%20Battlefront%20II-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars Battlefront II",
+      "locale": "en-us"
+    },
+    {
+      "name": "StarCraft",
+      "popularity": 129,
+      "_id": 11989,
+      "giantbomb_id": 13062,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/StarCraft-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/StarCraft-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/StarCraft-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/StarCraft-{width}x{height}.jpg"
+      },
+      "localized_name": "StarCraft",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+      "popularity": 25,
+      "_id": 8118,
+      "giantbomb_id": 8852,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Trek Online",
+      "popularity": 23,
+      "_id": 19858,
+      "giantbomb_id": 21810,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Online-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Online-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Online-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Online-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Online-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Online-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Online-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Online-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Trek Online",
+      "locale": "en-us"
+    },
+    {
+      "name": "Stars End",
+      "popularity": 14,
+      "_id": 502497,
+      "giantbomb_id": 65056,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Stars%20End-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Stars%20End-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Stars%20End-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Stars%20End-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Stars%20End-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Stars%20End-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Stars%20End-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Stars%20End-{width}x{height}.jpg"
+      },
+      "localized_name": "Stars End",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: Galaxies - An Empire Divided",
+      "popularity": 11,
+      "_id": 8654,
+      "giantbomb_id": 9437,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Galaxies%20-%20An%20Empire%20Divided-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Galaxies%20-%20An%20Empire%20Divided-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Galaxies%20-%20An%20Empire%20Divided-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Galaxies%20-%20An%20Empire%20Divided-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Galaxies%20-%20An%20Empire%20Divided-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Galaxies%20-%20An%20Empire%20Divided-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Galaxies%20-%20An%20Empire%20Divided-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Galaxies%20-%20An%20Empire%20Divided-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: Galaxies - An Empire Divided",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: Knights of the Old Republic",
+      "popularity": 7,
+      "_id": 17179,
+      "giantbomb_id": 18741,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Knights%20of%20the%20Old%20Republic-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: Knights of the Old Republic",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Control II",
+      "popularity": 5,
+      "_id": 6435,
+      "giantbomb_id": 7030,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Control%20II-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Control%20II-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Control%20II-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Control%20II-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Control%20II-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Control%20II-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Control%20II-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Control%20II-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Control II",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: Battlefront II",
+      "popularity": 4,
+      "_id": 6490,
+      "giantbomb_id": 7094,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Battlefront%20II-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Battlefront%20II-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Battlefront%20II-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Battlefront%20II-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Battlefront%20II-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Battlefront%20II-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Battlefront%20II-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Battlefront%20II-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: Battlefront II",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Ocean: Till the End of Time",
+      "popularity": 4,
+      "_id": 11117,
+      "giantbomb_id": 12099,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Ocean:%20Till%20the%20End%20of%20Time-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Ocean:%20Till%20the%20End%20of%20Time-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Ocean:%20Till%20the%20End%20of%20Time-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Ocean:%20Till%20the%20End%20of%20Time-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Ocean:%20Till%20the%20End%20of%20Time-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Ocean:%20Till%20the%20End%20of%20Time-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Ocean:%20Till%20the%20End%20of%20Time-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Ocean:%20Till%20the%20End%20of%20Time-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Ocean: Till the End of Time",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: Jedi Knight - Jedi Academy",
+      "popularity": 2,
+      "_id": 15512,
+      "giantbomb_id": 16922,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Jedi%20Knight%20-%20Jedi%20Academy-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Jedi%20Knight%20-%20Jedi%20Academy-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Jedi%20Knight%20-%20Jedi%20Academy-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Jedi%20Knight%20-%20Jedi%20Academy-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Jedi%20Knight%20-%20Jedi%20Academy-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Jedi%20Knight%20-%20Jedi%20Academy-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Jedi%20Knight%20-%20Jedi%20Academy-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Jedi%20Knight%20-%20Jedi%20Academy-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: Jedi Knight - Jedi Academy",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars Jedi: Fallen Order",
+      "popularity": 1,
+      "_id": 503446,
+      "giantbomb_id": 66000,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars%20Jedi:%20Fallen%20Order-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars%20Jedi:%20Fallen%20Order-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars%20Jedi:%20Fallen%20Order-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars%20Jedi:%20Fallen%20Order-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars%20Jedi:%20Fallen%20Order-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars%20Jedi:%20Fallen%20Order-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars%20Jedi:%20Fallen%20Order-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars%20Jedi:%20Fallen%20Order-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars Jedi: Fallen Order",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars Battlefront",
+      "popularity": 1,
+      "_id": 490887,
+      "giantbomb_id": 42912,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wars%20Battlefront-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wars%20Battlefront-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wars%20Battlefront-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wars%20Battlefront-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars Battlefront",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Ocean: The Last Hope",
+      "popularity": 1,
+      "_id": 19258,
+      "giantbomb_id": 21094,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Ocean:%20The%20Last%20Hope-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Ocean:%20The%20Last%20Hope-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Ocean:%20The%20Last%20Hope-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Ocean:%20The%20Last%20Hope-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Ocean:%20The%20Last%20Hope-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Ocean:%20The%20Last%20Hope-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Ocean:%20The%20Last%20Hope-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Ocean:%20The%20Last%20Hope-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Ocean: The Last Hope",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Trek: Wrath of Gems ",
+      "popularity": 0,
+      "_id": 512420,
+      "giantbomb_id": 73203,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20Wrath%20of%20Gems%20-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20Wrath%20of%20Gems%20-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20Wrath%20of%20Gems%20-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20Wrath%20of%20Gems%20-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20Wrath%20of%20Gems%20-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20Wrath%20of%20Gems%20-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20Wrath%20of%20Gems%20-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20Wrath%20of%20Gems%20-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Trek: Wrath of Gems ",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Saviors",
+      "popularity": 0,
+      "_id": 500890,
+      "giantbomb_id": 63270,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Saviors-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Saviors-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Saviors-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Saviors-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Saviors-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Saviors-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Saviors-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Saviors-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Saviors",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Blaze",
+      "popularity": 0,
+      "_id": 15194,
+      "giantbomb_id": 16579,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Blaze-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Blaze-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Blaze-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Blaze-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Blaze-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Blaze-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Blaze-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Blaze-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Blaze",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wreck",
+      "popularity": 0,
+      "_id": 21137,
+      "giantbomb_id": 23304,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wreck-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wreck-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wreck-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wreck-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wreck-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wreck-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wreck-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Wreck-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wreck",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: Racer Arcade",
+      "popularity": 0,
+      "_id": 24625,
+      "giantbomb_id": 27288,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Racer%20Arcade-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Racer%20Arcade-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Racer%20Arcade-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Racer%20Arcade-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Racer%20Arcade-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Racer%20Arcade-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Racer%20Arcade-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Racer%20Arcade-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: Racer Arcade",
+      "locale": "en-us"
+    },
+    {
+      "name": "StarFlyers: Alien Space Chase",
+      "popularity": 0,
+      "_id": 513400,
+      "giantbomb_id": 74197,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./StarFlyers:%20Alien%20Space%20Chase-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./StarFlyers:%20Alien%20Space%20Chase-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./StarFlyers:%20Alien%20Space%20Chase-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./StarFlyers:%20Alien%20Space%20Chase-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./StarFlyers:%20Alien%20Space%20Chase-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./StarFlyers:%20Alien%20Space%20Chase-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./StarFlyers:%20Alien%20Space%20Chase-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./StarFlyers:%20Alien%20Space%20Chase-{width}x{height}.jpg"
+      },
+      "localized_name": "StarFlyers: Alien Space Chase",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: X-Wing Vs. TIE Fighter",
+      "popularity": 0,
+      "_id": 14197,
+      "giantbomb_id": 15483,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20X-Wing%20Vs.%20TIE%20Fighter-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20X-Wing%20Vs.%20TIE%20Fighter-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20X-Wing%20Vs.%20TIE%20Fighter-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20X-Wing%20Vs.%20TIE%20Fighter-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20X-Wing%20Vs.%20TIE%20Fighter-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20X-Wing%20Vs.%20TIE%20Fighter-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20X-Wing%20Vs.%20TIE%20Fighter-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20X-Wing%20Vs.%20TIE%20Fighter-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: X-Wing Vs. TIE Fighter",
+      "locale": "en-us"
+    },
+    {
+      "name": "Starship Commander",
+      "popularity": 0,
+      "_id": 505902,
+      "giantbomb_id": 68401,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Starship%20Commander-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Starship%20Commander-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Starship%20Commander-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Starship%20Commander-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Starship%20Commander-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Starship%20Commander-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Starship%20Commander-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Starship%20Commander-{width}x{height}.jpg"
+      },
+      "localized_name": "Starship Commander",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Battle",
+      "popularity": 0,
+      "_id": 27632,
+      "giantbomb_id": 30664,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Battle-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Battle-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Battle-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Battle-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Battle-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Battle-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Battle-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Battle-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Battle",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Trek Legacy",
+      "popularity": 0,
+      "_id": 7040,
+      "giantbomb_id": 7690,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Legacy-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Legacy-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Legacy-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Legacy-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Legacy-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Legacy-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Legacy-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Legacy-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Trek Legacy",
+      "locale": "en-us"
+    },
+    {
+      "name": "Starshatter",
+      "popularity": 0,
+      "_id": 932,
+      "giantbomb_id": 1016,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Starshatter-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Starshatter-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Starshatter-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Starshatter-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Starshatter-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Starshatter-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Starshatter-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Starshatter-{width}x{height}.jpg"
+      },
+      "localized_name": "Starshatter",
+      "locale": "en-us"
+    },
+    {
+      "name": "Starstruck",
+      "popularity": 0,
+      "_id": 512045,
+      "giantbomb_id": 72832,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Starstruck-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Starstruck-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Starstruck-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Starstruck-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Starstruck-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Starstruck-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Starstruck-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Starstruck-{width}x{height}.jpg"
+      },
+      "localized_name": "Starstruck",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: Rebellion",
+      "popularity": 0,
+      "_id": 5337,
+      "giantbomb_id": 5822,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Rebellion-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Rebellion-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Rebellion-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Rebellion-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Rebellion-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Rebellion-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Rebellion-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Rebellion-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: Rebellion",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Control: Origins",
+      "popularity": 0,
+      "_id": 500185,
+      "giantbomb_id": 62662,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Control:%20Origins-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Control:%20Origins-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Control:%20Origins-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Control:%20Origins-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Control:%20Origins-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Control:%20Origins-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Control:%20Origins-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Control:%20Origins-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Control: Origins",
+      "locale": "en-us"
+    },
+    {
+      "name": "Start-Up 2000",
+      "popularity": 0,
+      "_id": 2038,
+      "giantbomb_id": 2232,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Start-Up%202000-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Start-Up%202000-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Start-Up%202000-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Start-Up%202000-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Start-Up%202000-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Start-Up%202000-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Start-Up%202000-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Start-Up%202000-{width}x{height}.jpg"
+      },
+      "localized_name": "Start-Up 2000",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Pool",
+      "popularity": 0,
+      "_id": 25991,
+      "giantbomb_id": 28811,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Pool-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Pool-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Pool-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Pool-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Pool-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Pool-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Pool-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Pool-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Pool",
+      "locale": "en-us"
+    },
+    {
+      "name": "StarFront: Collision",
+      "popularity": 0,
+      "_id": 30650,
+      "giantbomb_id": 34105,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./StarFront:%20Collision-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./StarFront:%20Collision-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./StarFront:%20Collision-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./StarFront:%20Collision-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./StarFront:%20Collision-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./StarFront:%20Collision-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./StarFront:%20Collision-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./StarFront:%20Collision-{width}x{height}.jpg"
+      },
+      "localized_name": "StarFront: Collision",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Storm ",
+      "popularity": 0,
+      "_id": 510490,
+      "giantbomb_id": 71215,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Storm%20-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Storm%20-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Storm%20-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Storm%20-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Storm%20-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Storm%20-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Storm%20-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Storm%20-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Storm ",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Trek Adventurers",
+      "popularity": 0,
+      "_id": 498827,
+      "giantbomb_id": 61246,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Adventurers-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Adventurers-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Adventurers-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Adventurers-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Adventurers-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Adventurers-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Adventurers-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Adventurers-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Trek Adventurers",
+      "locale": "en-us"
+    },
+    {
+      "name": "Stardom: Your Quest For Fame",
+      "popularity": 0,
+      "_id": 16466,
+      "giantbomb_id": 17963,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Stardom:%20Your%20Quest%20For%20Fame-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Stardom:%20Your%20Quest%20For%20Fame-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Stardom:%20Your%20Quest%20For%20Fame-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Stardom:%20Your%20Quest%20For%20Fame-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Stardom:%20Your%20Quest%20For%20Fame-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Stardom:%20Your%20Quest%20For%20Fame-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Stardom:%20Your%20Quest%20For%20Fame-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Stardom:%20Your%20Quest%20For%20Fame-{width}x{height}.jpg"
+      },
+      "localized_name": "Stardom: Your Quest For Fame",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Traders",
+      "popularity": 0,
+      "_id": 10930,
+      "giantbomb_id": 11907,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Traders-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Traders-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Traders-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Traders-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Traders-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Traders-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Traders-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Traders-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Traders",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Stealing Prince",
+      "popularity": 0,
+      "_id": 459190,
+      "giantbomb_id": 45076,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Stealing%20Prince-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Stealing%20Prince-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Stealing%20Prince-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Stealing%20Prince-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Stealing%20Prince-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Stealing%20Prince-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Stealing%20Prince-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Stealing%20Prince-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Stealing Prince",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Trek Pinball",
+      "popularity": 0,
+      "_id": 3191,
+      "giantbomb_id": 3477,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Pinball-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Pinball-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Pinball-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Pinball-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Pinball-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Pinball-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Pinball-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Trek%20Pinball-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Trek Pinball",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Trek: Deep Space Nine - Harbinger",
+      "popularity": 0,
+      "_id": 16686,
+      "giantbomb_id": 18202,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20Deep%20Space%20Nine%20-%20Harbinger-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20Deep%20Space%20Nine%20-%20Harbinger-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20Deep%20Space%20Nine%20-%20Harbinger-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20Deep%20Space%20Nine%20-%20Harbinger-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20Deep%20Space%20Nine%20-%20Harbinger-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20Deep%20Space%20Nine%20-%20Harbinger-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20Deep%20Space%20Nine%20-%20Harbinger-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20Deep%20Space%20Nine%20-%20Harbinger-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Trek: Deep Space Nine - Harbinger",
+      "locale": "en-us"
+    },
+    {
+      "name": "Starbound",
+      "popularity": 0,
+      "_id": 33945,
+      "giantbomb_id": 37839,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Starbound-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Starbound-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Starbound-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Starbound-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Starbound-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Starbound-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Starbound-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Starbound-{width}x{height}.jpg"
+      },
+      "localized_name": "Starbound",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Trek: The Next Generation - Trivia",
+      "popularity": 0,
+      "_id": 5018,
+      "giantbomb_id": 5477,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20The%20Next%20Generation%20-%20Trivia-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20The%20Next%20Generation%20-%20Trivia-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20The%20Next%20Generation%20-%20Trivia-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Trek:%20The%20Next%20Generation%20-%20Trivia-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20The%20Next%20Generation%20-%20Trivia-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20The%20Next%20Generation%20-%20Trivia-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20The%20Next%20Generation%20-%20Trivia-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Trek:%20The%20Next%20Generation%20-%20Trivia-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Trek: The Next Generation - Trivia",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Sentinel Tactics",
+      "popularity": 0,
+      "_id": 26306,
+      "giantbomb_id": 29166,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Sentinel%20Tactics-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Sentinel%20Tactics-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Sentinel%20Tactics-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Sentinel%20Tactics-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Sentinel%20Tactics-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Sentinel%20Tactics-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Sentinel%20Tactics-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Sentinel%20Tactics-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Sentinel Tactics",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Warped",
+      "popularity": 0,
+      "_id": 3601,
+      "giantbomb_id": 3945,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Warped-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Warped-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Warped-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Warped-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Warped-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Warped-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Warped-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Warped-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Warped",
+      "locale": "en-us"
+    },
+    {
+      "name": "StarGather",
+      "popularity": 0,
+      "_id": 503148,
+      "giantbomb_id": 65722,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/StarGather-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/StarGather-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/StarGather-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/StarGather-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/StarGather-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/StarGather-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/StarGather-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/StarGather-{width}x{height}.jpg"
+      },
+      "localized_name": "StarGather",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Wars: Jedi Math",
+      "popularity": 0,
+      "_id": 23568,
+      "giantbomb_id": 26084,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Jedi%20Math-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Jedi%20Math-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Jedi%20Math-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Jedi%20Math-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Jedi%20Math-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Jedi%20Math-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Jedi%20Math-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Star%20Wars:%20Jedi%20Math-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Wars: Jedi Math",
+      "locale": "en-us"
+    },
+    {
+      "name": "Star Defender 4",
+      "popularity": 0,
+      "_id": 24542,
+      "giantbomb_id": 27184,
+      "box": {
+        "large": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Defender%204-272x380.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Defender%204-136x190.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Defender%204-52x72.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Defender%204-{width}x{height}.jpg"
+      },
+      "logo": {
+        "large": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Defender%204-240x144.jpg",
+        "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Defender%204-120x72.jpg",
+        "small": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Defender%204-60x36.jpg",
+        "template": "https://static-cdn.jtvnw.net/ttv-logoart/Star%20Defender%204-{width}x{height}.jpg"
+      },
+      "localized_name": "Star Defender 4",
+      "locale": "en-us"
+    }
+  ]
+}
