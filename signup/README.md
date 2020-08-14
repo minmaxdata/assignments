@@ -24,7 +24,7 @@ You will also see any lint errors in the console.
 
 It was difficult to determine the correct font sizes, paddings, and margins so they may be off.
 
-I rax axe for web accessiblity testing against the page and it called out the color of the submit button as a serious issue because of the contrast between the foreground and background color. Ir recommended that the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds.
+I ran axe for web accessiblity testing against the page and it called out the color of the submit button as a serious issue because of the contrast between the foreground and background color. It recommended that the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds.
 
 I also ran lighthouse against it and since I did not optimize the build with code splitting the performance rating was low however its accessibilty score was 95 best practices 100 seo 100 and has some deficits in terms of PWA but then again I did not address this as it was not in the scope of the assignment.
 
