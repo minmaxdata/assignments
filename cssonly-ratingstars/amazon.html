@@ -1,0 +1,97 @@
+< !DOCTYPE html >
+<html>
+  <head>
+    <title>Foo Bar Baz Qux</title>
+  </head>
+  <body>
+    <form id="foo-bar">
+      <input type="text" name="foo.bar" />
+    </form>
+    <form id="foo-bar-baz-qux">
+      <input type="text" name="foo.bar" />
+      <input type="text" name="foo.baz.qux" />
+      <input type="text" name="qux" />
+    </form>
+    <script>
+              var fooBar = {
+                foo : {
+                bar : ''
+        }
+      }
+          var fooBarBazQux = {
+                foo : {
+                bar : '',
+              baz : {
+                qux : ''
+        }
+      },
+      qux : ''
+      }
+
+
+      const fooBarBazQux = readFormObject('foo-bar-baz-qux', 'bar');
+      const fooBar = readFormObject('foo-bar');
+
+      const readFormObject = (id, criteria) => {
+        const obj = {};
+
+        const inputs = document.getElementById(id).querySelectorAll('input[type="text"]');
+
+        return inputs.forEach((input) => {
+          let name = input.name;
+          let value = input.value;
+          let keys = name.split('.');
+
+          const mapper = {};
+          let containCriteria = true;
+          keys.reduce((acc, ))
+          keys.all((key) => {
+            if (key === filterString) {
+              return true;
+            }
+          });
+
+
+          // foo.baz
+          // 2 element
+          // 1 st
+          // obj[1st]s
+          return buildObject(value, keys, obj);
+
+        });
+
+        function buildObject(value, keys, acc) {
+          acc = acc || {};
+
+          if (keys.length === 1) {
+            acc[keys[0]] = value;
+          } else {
+            for (let key of keys) {
+              return buildObject(value, key, acc);
+            }
+          }
+          return acc;
+        }
+
+
+      }
+
+      function convert(namesArray) {
+        let result = {};
+        let nestedObj = result;
+        namesArray.forEach(name => {
+          nestedObj[name] = {};
+          nestedObj = nestedObj[name];
+        });
+
+        return result;
+      }
+
+      const keys = ['product', 'model', 'version'];
+      const result = keys.reverse().reduce((res, key) => ({ [key]: res }), {});
+      //                                   innermost value to start with ^^
+
+      console.log(result);
+    </script>
+  </body>
+</html>
