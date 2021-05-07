@@ -8,7 +8,7 @@
     "material-colors": "1.2.6",
     "@material-ui/utils": "4.11.2",
     "@material-ui/system": "4.11.3",
-    "@material-ui/core": "4.11.3"
+    "@material-ui/core": "4.11.4"
   },
   "keywords": [],
   "name": "phonebook",
