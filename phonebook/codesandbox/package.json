@@ -2,8 +2,8 @@
   "dependencies": {
     "redux": "4.0.5",
     "react-redux": "7.2.2",
-    "react-dom": "16.14.0",
-    "react": "16.14.0",
+    "react-dom": "18.3.1",
+    "react": "18.3.1",
     "prop-types": "15.7.2",
     "material-colors": "1.2.6",
     "@material-ui/utils": "4.11.2",
