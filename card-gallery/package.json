@@ -16,9 +16,9 @@
   "author": "Karen McAdams",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "7.9.6",
-    "@babel/preset-env": "7.9.6",
-    "@babel/preset-react": "7.9.4",
+    "@babel/core": "7.25.9",
+    "@babel/preset-env": "7.25.9",
+    "@babel/preset-react": "7.25.9",
     "babel-loader": "8.1.0",
     "clean-webpack-plugin": "3.0.0",
     "css-loader": "3.5.3",
